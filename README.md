@@ -6,4 +6,4 @@ mvn clean install -DskipTests=true
 
 Correr el repo 
 
-mvn gatling:test -Dgatling.simulationClass=simulations.Cdt
+mvn gatling:test -Dgatling.simulationClass=simulations.Boletia
